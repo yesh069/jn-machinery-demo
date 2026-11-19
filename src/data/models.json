@@ -1,0 +1,184 @@
+[
+ {
+  "slug": "jn-540",
+  "name": "JN-540",
+  "aka": "JN-5",
+  "tagline": "A small oven, ideal for parts up to .062″ (2mm) wire",
+  "description": "5″ (127mm) wide, turned-up belt edge. Solid body design with stainless steel conveyor. Automatic time delay shut down for belt cooling.",
+  "specs": {
+   "Footprint": "19″ x 59″ (482mm x 1473mm)",
+   "Chamber Size (W x L x H)": "5.0″ x 40″ x 2.0″ (127mm x 1029mm x 51mm)",
+   "Capacity": "400 lb/hr @ 500°F 250 lb/hr @ 750°F",
+   "Max Temperature": "950°F (510°C)",
+   "Volts": "230*",
+   "Amps": "36",
+   "Watts": "4,800"
+  },
+  "note": "*Can be furnished with other voltage",
+  "images": [
+   "/img/site/jn-540-hero.webp",
+   "/img/site/jn-540-side1.webp",
+   "/img/site/jn-540-side2.webp"
+  ]
+ },
+ {
+  "slug": "jn-855",
+  "name": "JN-855",
+  "aka": "JN-8",
+  "tagline": "The industry’s most economical oven, for parts up to .125″ (3.175mm)",
+  "description": "8″ (203 mm) wide, flat belt edge. Belt height adjustable at 22.5″ or 26″. Bolt-on Jack option. Solid body design with stainless steel conveyor. Automatic time delay shut down for belt cooling.",
+  "specs": {
+   "Footprint": "25″ x 76″ (635mm x 1930mm)",
+   "Chamber Size (W x L x H)": "8.0″ x 55″ x 3.0″ (203mm x 1397mm x 76mm)",
+   "Capacity": "400 lb/hr @ 500°F 250 lb/hr @ 750°F",
+   "Max Temperature": "950°F (510°C)",
+   "Volts": "230*",
+   "Amps": "36",
+   "Watts": "9,000"
+  },
+  "note": "*Can be furnished with other voltage",
+  "images": [
+   "/img/site/jn-855-hero.webp",
+   "/img/site/jn-855-side1.webp",
+   "/img/site/jn-855-side2.webp"
+  ]
+ },
+ {
+  "slug": "jn-1040",
+  "name": "JN-1040",
+  "aka": null,
+  "tagline": "A compact oven, for parts up to 0.125″ (3mm).",
+  "description": "Belt height adjustable at 24.5″ or 28″. Bolt-on Jack Option. Clam shell design with stainless steel conveyor. Vari-speed belt control with AC direct drive motor.",
+  "specs": {
+   "Footprint": "26″ x 64″ (660mm x 1626mm)",
+   "Chamber Size (W x L x H)": "10.0″ x 40.5″ x 2.0″ (254mm x 1029mm x 51mm)",
+   "Capacity": "120 lb/hr @ 500°F 80lb/hr @ 750°F",
+   "Max Temperature": "950°F (510°C)",
+   "Volts": "230*",
+   "Amps": "21",
+   "Watts": "9,600"
+  },
+  "note": "*Can be furnished with other voltage",
+  "images": []
+ },
+ {
+  "slug": "jn-1060",
+  "name": "JN-1060",
+  "aka": "JN-300",
+  "tagline": "Revived by popular demand, up to .162” (4mm)",
+  "description": "10″ (254 mm) wide, turned-up belt edge. Belt height adjustable at 24.5″ or 27.5″. Bolt-on Jack option. Clam shell design with stainless steel conveyor. Automatic time delay shut down for belt cooling",
+  "specs": {
+   "Footprint": "26″ x 85″ (660mm x 2159mm)",
+   "Chamber Size (W x L x H)": "10.0″ x 60″ x 3.0″(254mm x 1524mm x 76mm)",
+   "Capacity": "300 lb/hr @ 500°F 195 lb/hr @ 750°F",
+   "Max Temperature": "950°F (510°C)",
+   "Volts": "230*",
+   "Amps": "22",
+   "Watts": "9,600"
+  },
+  "note": "*Can be furnished with other voltage",
+  "images": [
+   "/img/site/jn-1060-hero.webp",
+   "/img/site/jn-1060-angle-1.webp",
+   "/img/site/jn-1060-open-1.webp"
+  ]
+ },
+ {
+  "slug": "jn-1276",
+  "name": "JN-1276",
+  "aka": "JN-12",
+  "tagline": "A large economical model, for parts up to about .192″ (5mm) wire",
+  "description": "12″ (304.80mm) wide, flat belt edge. Jacks for belt height adjustment 25″-38″. Solid body design with stainless steel conveyor. Automatic time delay shut down for belt cooling.",
+  "specs": {
+   "Footprint": "32″ x 111″ (812mm x 2819mm)",
+   "Chamber Size (W x L x H)": "12.0″ x 76″ x 4.0″ (305mm x 1930mm x 102mm)",
+   "Capacity": "400 lb/hr @ 500°F 250 lb/hr @ 750°F",
+   "Max Temperature": "950°F (510°C)",
+   "Volts": "230*",
+   "Amps": "36",
+   "Watts": "15,600"
+  },
+  "note": "*Can be furnished with other voltage",
+  "images": [
+   "/img/site/jn-1276-hero.webp",
+   "/img/site/jn-1276-angle.webp",
+   "/img/site/jn-1276-detail.webp"
+  ]
+ },
+ {
+  "slug": "jn-1888",
+  "name": "JN-1888",
+  "aka": null,
+  "tagline": "A workhorse model, ideal for parts up to .312″ (8mm) dia",
+  "description": "18″ (457mm) wide, flat belt edge. Turned-up belt is an option. Jacks for belt height adjustment 20″-45″. Solid body design with stainless steel conveyor. Automatic time delay shut down for belt cooling.",
+  "specs": {
+   "Footprint": "38″ x 123″ (965mm x 3124mm)",
+   "Chamber Size (W x L x H)": "18.0″ x 88″ x 5.0″ (457mm x 2235mm x 127mm)",
+   "Capacity": "750 lb/hr @ 500°F 525 lb/hr @ 750°F",
+   "Max Temperature": "999°F (540°C)",
+   "Volts": "208, 240 or 480",
+   "Amps": "71A @208V, 59A @240V, 30A @480V",
+   "Watts": "15,600"
+  },
+  "note": null,
+  "images": [
+   "/img/site/jn-1888-hero.webp",
+   "/img/site/jn-1888-front.webp",
+   "/img/site/jn-1888-side.webp"
+  ]
+ },
+ {
+  "slug": "jn-15hd",
+  "name": "JN-15HD",
+  "aka": null,
+  "tagline": "high capacity model, for wire up to .500″ (12mm)",
+  "description": "15″ (381mm) wide, flat belt edge. Jacks for belt height adjustment 24″-37″. Heating elements above and below the belt. Solid body design with stainless steel conveyor. Automatic time delay shut down for belt cooling.",
+  "specs": {
+   "Footprint": "35″ x 131″ (889mm x 3327mm)",
+   "Chamber Size (W x L x H)": "15.0″ x 88″ x 6.0″ (381mm x 2235mm x 152mm)",
+   "Capacity": "980 lb/hr @ 500°F 250 lb/hr @ 750°F",
+   "Max Temperature": "950°F (510°C)",
+   "Volts": "460",
+   "Amps": "54",
+   "Watts": "46,200"
+  },
+  "note": null,
+  "images": [
+   "/img/site/jn-15hd.webp",
+   "/img/site/jn-15hd-angle-1.webp",
+   "/img/site/jn-15hd-front-angle.webp"
+  ]
+ },
+ {
+  "slug": "jn-18hd",
+  "name": "JN-18HD",
+  "aka": null,
+  "tagline": "high capacity model, for wire up to .625” (16mm)",
+  "description": "",
+  "specs": {},
+  "note": "Full technical data is available as a downloadable specification sheet.",
+  "images": []
+ },
+ {
+  "slug": "jn-30hd",
+  "name": "JN-30HD",
+  "aka": null,
+  "tagline": "Large Heavy Duty Oven",
+  "description": "30″ (762mm) wide flat wire, sprocket-driven stainless belts. Positive traction on belt—no tracking required! Heating elements above and below the belt. Ideal for High Temperature and High Volume parts. Exit end can be extended and fitted with cooling fans. Digital belt speed control with AC direct drive motor. Fixed or variable belt heights.",
+  "specs": {
+   "Footprint": "46″ x 160″ (1168mm x 4064mm)",
+   "Chamber Size (W x L x H)": "30.0″ x 120″ x 6.0″ (762mm x 3040mm x 152mm)",
+   "Capacity": "2000 lb/hr @ 500°F 1400 lb/hr @ 800°F",
+   "Max Temperature": "999°F (540°C)",
+   "Volts": "480",
+   "Amps": "104",
+   "Watts": "90,000"
+  },
+  "note": null,
+  "images": [
+   "/img/site/jn-30hd-hero.webp",
+   "/img/site/jn30hd-angle.webp",
+   "/img/site/jn30hd-detail.webp"
+  ]
+ }
+]
