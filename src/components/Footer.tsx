@@ -40,7 +40,7 @@ export default function Footer() {
             </ul>
           </div>
         </div>
-        <div className="ftr-bot"><span>© JN Machinery Corp. Website redesign concept.</span><span>1350 Chase St., Algonquin, IL 60102</span></div>
+        <div className="ftr-bot"><span>© JN Machinery Corp. Website redesign concept. Development by <a href="https://cyrtechnologies.com" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline" }}>CYR Technologies</a></span><span>1350 Chase St., Algonquin, IL 60102</span></div>
       </div>
     </footer>
   );
